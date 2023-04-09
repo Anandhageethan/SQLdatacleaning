@@ -1,5 +1,3 @@
-Skip to content
-Search or jump to…
 /*
 Cleaning Data in SQL Queries
 */
